@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "http-server -a localhost -c-1 -p 8000"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "tone": "^14.7.77"
+  }
+}

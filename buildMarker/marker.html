@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Markers</title>
+  </head>
+    <script src="g.min.js"></script>
+  <body>
+
+    <div id="marker">
+    </div>
+
+    <script>
+      let wMark = 300;  // width (pixels) of a marker
+      let lineHeight = 350; // height (pixels) of a row
+      let wanted = [447,868,689,609]; // wanted id markers (others will be random)
+  
+      let g=new Genere();
+      document.body.appendChild(g.createTable(4,2,wMark,lineHeight,wanted)); // 4= nb row, 2 = nb column
+     </script>
+  </body>
+</html>

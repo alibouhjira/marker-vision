@@ -1,7 +1,3 @@
-Voici une **version améliorée, plus professionnelle et plus lisible** de ton README, tout en restant claire et orientée **projet technique / recruteur**.
-Tu peux la copier telle quelle en `README.md`.
-
----
 
 # 🎯 Projet d’Identification de Markers – OpenCV & JavaScript
 
@@ -105,19 +101,9 @@ http://localhost:8080
 
 Développé par **Ali Bouhjira**
 🔗 LinkedIn : [https://linkedin.com/in/ali-bouhjira-iot](https://linkedin.com/in/ali-bouhjira-iot)
-💻 GitHub : [https://github.com/tonpseudo](https://github.com/tonpseudo)
+💻 GitHub : [https://github.com/alibouhjira](https://github.com/alibouhjira)
 
----
 
-## 📄 Licence
 
-Ce projet est sous licence **MIT**.
-Voir le fichier `LICENSE` pour plus de détails.
 
----
 
-Si tu veux, je peux aussi :
-
-* ajouter une section **captures d’écran / GIF**
-* le rendre encore plus **orienté vision par ordinateur**
-* ou l’adapter pour un **portfolio de recrutement** 👌
